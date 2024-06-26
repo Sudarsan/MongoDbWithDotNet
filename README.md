@@ -1,6 +1,6 @@
 # MongoDB with .NET 
 
-This solution demonstrates how to integrate MongoDB with a .NET 5 or .NET Core application using the official MongoDB C# driver. It provides a basic framework for performing CRUD operations on MongoDB collections through a RESTful API. The solution is structured into several key files that set up the MongoDB connection, define the controllers for handling HTTP requests, and configure the application startup.
+This solution demonstrates how to integrate MongoDB with a .NET application using the official MongoDB C# driver. It provides a basic framework for performing CRUD operations on MongoDB collections through a RESTful API. The solution is structured into several key files that set up the MongoDB connection, define the controllers for handling HTTP requests, and configure the application startup.
 
 ## Program.cs
 
